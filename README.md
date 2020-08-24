@@ -1,7 +1,7 @@
 # parceiros-petz-api
 API Rest usando Java 8 e Spring Boot.
 
-#Como executar a aplicação
+# Como executar a aplicação
 
 Certifique se de ter baixado parceiros petz api
 
