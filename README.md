@@ -9,7 +9,9 @@ parceiros petz api
 Execute o
 comando
 ./mvnw spring boot:run
-API será executada em
+
+API será executada em:
+
 http://localhost:8080
 
 Para Testar pode usar o Firefox Mozzila
