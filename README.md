@@ -1,13 +1,17 @@
 # parceiros-petz-api
 API Rest usando Java 8 e Spring Boot.
-Como executar a aplicação
+
+#Como executar a aplicação
+
 Certifique se de ter baixado parceiros petz api
+
 Acesse através do console
 CMD ou GitBash
-cd
-parceiros petz api
-Execute o
-comando
+
+cd parceiros petz api
+
+Execute o comando
+
 ./mvnw spring boot:run
 
 API será executada em:
